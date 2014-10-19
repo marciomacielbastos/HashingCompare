@@ -2,5 +2,5 @@
 * MARCIO MACIEL BASTOS *
 ************************
 
-Programa usado para plotar os gr·ficos;
-Vers„o DEMO, n„o possui documentaÁ„o JAVADOC nem interface usu·rio
+Programa usado para comparar o desempenho das duas principais fun√ß√µes hashing (SHA-512 e Whirlpool);
+Vers√£o DEMO, n√£o possui documenta√ß√£o JAVADOC nem interface usu√°rio
